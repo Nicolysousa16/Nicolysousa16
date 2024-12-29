@@ -1,6 +1,6 @@
 - 🎀 Olá, Eu sou Maria Nicoly!
 - Sou nova na programação!
-- Estou tentando evoluir sempre mais e mais.
+- Estou sempre buscando evoluir mais e mais.
 
 <!---
 Nicolysousa16/Nicolysousa16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
